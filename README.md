@@ -76,11 +76,12 @@ Here, if user1 follows user2 then,
   "name": "Adam Richard",
   "gender": "male"
 }
+```
 
 
 </Section>
-
 <Section id="section2">
+
 
 ### API 2
 
@@ -96,7 +97,7 @@ Here, if user1 follows user2 then,
   "password":"biden@123"
 }
 
-
+```
 </Section>
 
 <Section id="authToken">
